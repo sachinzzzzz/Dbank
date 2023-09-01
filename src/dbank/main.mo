@@ -26,7 +26,7 @@ actor DBank{
     Debug.print(debug_show(currentValue));
     }
     else {
-      Debug.print("Lawdeya aukaat mai")
+      Debug.print("not enough balance")
     }
   };
 
